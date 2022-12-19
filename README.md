@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MHB82
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Analysis w Python 
+- 🌱 I’m currently learning Data Visualization w Python 
 - 💞️ I’m looking to collaborate on Finance
 - 📫 How to reach me muratbulga@gmail.com / +905330548980
 
