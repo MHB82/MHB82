@@ -1,4 +1,4 @@
-- 👋 **Hi, I’m @MHB82**
+- 👋 **Hi, I’m Murat Haris**
 - 👀 **I’m interested in Data Analytics**
 - 🌱 **I’m currently learning Data Visualization w Python**
 - 💞️ **I’m looking to collaborate on Finance**
