@@ -1,6 +1,6 @@
 - 👋 **Hi, I’m Murat Haris**
 - 👀 **I’m interested in Data Analytics**
-- 🌱 **I’m currently learning Data Visualization w Python**
+- 🌱 **I’m currently learning MS SQL SERVER**
 - 💞️ **I’m looking to collaborate on Finance**
 - 📫 **How to reach me muratbulga@gmail.com 
 --->
