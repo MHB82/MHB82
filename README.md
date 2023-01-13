@@ -1,4 +1,9 @@
-![Data Science Path Image](https://user-images.githubusercontent.com/115734646/208485590-c1415bd1-d084-4c44-97c9-2283ee35772c.png)
+## Specifications
+| *Name \ Familiarity* 
+| --------------- | --------------- | --------------- | ------------- |
+| **Languages(programming)** | Python, Numpy, Pandas, Mathplotlib, Seaborn, MS.SQL,  LİNUX, TABLEU 
+| **Languages(human)** | Turkish-C2, English-C1, Bulgarian-A2
+| **Other interests** | Monetary Economics, Finance, Crypto, Stock Market, Behavioural Economics, 
 
 
 
