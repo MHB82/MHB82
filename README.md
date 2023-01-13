@@ -10,7 +10,7 @@
 
 
 
-HOW TO REACH ME
-mail = muratbulga@gmail.com
+**HOW TO REACH ME**
+- **mail = muratbulga@gmail.com**
 -------------
-linkedin = https://www.linkedin.com/in/murat-bulga-a9b75018a/
+- **linkedin = https://www.linkedin.com/in/murat-bulga-a9b75018a/**
