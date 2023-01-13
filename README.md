@@ -11,5 +11,6 @@
 
 
 HOW TO REACH ME
-mail = https://mail.google.com/mail/u/0/?tab=rm&ogbl
+mail = muratbulga@gmail.com
+-------------
 linkedin = https://www.linkedin.com/in/murat-bulga-a9b75018a/
