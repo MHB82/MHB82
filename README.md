@@ -6,7 +6,8 @@
 - 👀 **I’m interested in Data Analytics**
 - 🌱 **I’m currently learning MS SQL SERVER**
 - 💞️ **I’m looking to collaborate on Finance**
-- 📫 How to reach me muratbulga@gmail.com  , https://www.linkedin.com/in/murat-bulga-a9b75018a/
+- 📫  [linkedin]: https://www.linkedin.com/in/murat-bulga/
+       [gmail]: mailto:muratbulga@gmail.com
 
 
 
