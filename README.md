@@ -1,9 +1,3 @@
-## Specifications
-| *Name \ Familiarity* 
-| --------------- | --------------- | --------------- | ------------- |
-| **Languages(programming)** | Python, Numpy, Pandas, Mathplotlib, Seaborn, MS.SQL,  LİNUX, TABLEU 
-| **Languages(human)** | Turkish-C2, English-C1, Bulgarian-A2
-| **Other interests** | Monetary Economics, Finance, Crypto, Stock Market, Behavioural Economics, 
 
 
 
