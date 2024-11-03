@@ -1,7 +1,7 @@
 
 
 
-- 👋 **Hi, I’m Murat Haris**
+- 👋 **Hi, I’m Murat Han**
 - 👀 **I’m interested in Data Analytics**
 - 💞️ **I’m looking to collaborate on Finance**
 
